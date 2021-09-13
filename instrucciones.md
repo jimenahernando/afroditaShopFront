@@ -15,8 +15,10 @@
 	5. El usuario de tipo ADMIN podra subir, actualizar y borrar clientes.
 	
 ### Tareas
+ - No os olvides de crear las ramas en GIT
+    - Crear una ram develop y de ahi ir sacando las feature. Consejo una feature por tarea/persona. Una vez temrinada la feature la volcamos en develop no en main y hacemos push de develop. Cuando vemos que todo funciona bien en develop mergeamos a main.
 
- - Crear componentes para la prarte publica HOME, ERROR404, PRODUCTLIST, DETAILPRODUCT, LOGIN y REGISTER
+ - Crear componentes para la parte publica HOME, ERROR404, PRODUCTLIST, DETAILPRODUCT, LOGIN y REGISTER
 
  - Crear el servicio para los productos
  - Crear el interfaz para los productos
